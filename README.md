@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you want to check out my latest project, visit **[VSB-LAB][https://github.com/VSB-Lab]**
+If you want to check out my latest project, visit *[VSB-LAB](https://github.com/VSB-Lab)*
 
 Currently working on:
 - CyberSec
