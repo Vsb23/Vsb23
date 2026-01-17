@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+If you want to check out my latest project, visit **[VSB-LAB][https://github.com/VSB-Lab]**
+
+Currently working on:
+- CyberSec
+- Bash and ZSH scripting
+- 3D modeling
+- Mindfullness and productivity workflow
+
 <!--
 **Vsb23/Vsb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
